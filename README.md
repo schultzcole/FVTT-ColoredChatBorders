@@ -1,6 +1,6 @@
-# FVTT Module Template Repo
+# FVTT Colored Chat Borders
 
-A template repository for easy creation of new modules.
+Adds colored borders to chat messages based on player color 
 
 ## License
 
